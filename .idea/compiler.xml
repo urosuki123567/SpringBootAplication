@@ -9,5 +9,14 @@
         <module name="SpringBootRestfulWebApp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringBootRestfulWebApp" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBootRestfulWebApp" options="" />
+    </option>
   </component>
 </project>

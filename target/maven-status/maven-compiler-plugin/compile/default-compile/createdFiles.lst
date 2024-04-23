@@ -1,0 +1,5 @@
+org\etsntesla\it\Main.class
+org\etsntesla\it\models\Emocije.class
+org\etsntesla\it\repositories\EmocijeRepository.class
+org\etsntesla\it\models\VrstaEmocije.class
+org\etsntesla\it\controllers\EmocijeController.class
